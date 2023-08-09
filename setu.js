@@ -9,7 +9,7 @@
 // @ScriptURL         https://github.com/yeahbaby427/scripts/blob/master/setu.js
 // ==/UserScript==
 
-let userApikey   = '6558307060:AAFSrsAX6SlA5JJUc04UWJlxBFAVfdasMjI' //请在 Telegram 内使用 @loliconApiBot 申请
+let userApikey   = "6558307060:AAFSrsAX6SlA5JJUc04UWJlxBFAVfdasMjI" //请在 Telegram 内使用 @loliconApiBot 申请
 let userR18      = 2 //18禁为1 非为0 2是混合
 let userKeyword  = ''//搜索关键字
 let userNum      = 1 //一次返回的结果数量，范围为1到10，数字的数量亦为弹框的次数
